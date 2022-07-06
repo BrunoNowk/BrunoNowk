@@ -1,4 +1,6 @@
 ### Olá, Seja Bem Vindo(a) Ao Meu Perfil !!! Eu Sou o Bruno Nowk 😉
+aqui você verá algumas estatísticas minhas no Github, além das ferramentas mais usadas por mim
+e alguns de meus repositórios e projetos, fique á vontade 🤗
 ##
 <div align="center">
   <a href="https://github.com/BrunoNowk">
